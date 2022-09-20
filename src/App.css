@@ -27,6 +27,22 @@
 .App-link {
   color: #61dafb;
 }
+.container{
+  color: rgb(23, 133, 133);
+  background-color: bisque;
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 25px;
+  box-shadow: inset 13px 24px 35px gray;
+}
+.person{
+  background-color: coral;
+  border: 1px solid red;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 25px;
+}
 
 @keyframes App-logo-spin {
   from {
